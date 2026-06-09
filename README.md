@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Artificial Intelligence and AI automation to help people to minimize their work.<br>👯 I’m looking to collaborate on solving real world problems.<br>🌱 I’m currently learning Machine learning.<br>💬 Ask me about how to do multiple tasks at a time.<br>⚡ Fun fact: I forgot a lot.
+🔭 I’m currently working on Artificial Intelligence and AI automation to help people to minimize their work.<br>👯 I’m looking to collaborate on solving real world problems.
 
 
 ## 🌐 Socials:
