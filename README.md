@@ -2,8 +2,9 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sreejib-Nandy.Sreejib-Nandy"/>
 <br/>
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Sreejib+Nandy!;+CSE+Student+@+NSEC;+Aspiring+Software+Developer;+Turning+Logic+Into+Magic+✨;+Building+My+Coding+Universe+💫;+Coding+My+Way+to+FAANG+🚀;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=700&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Prasanth+Changala!;+Computer+Science+Engineering+Student;+AI+%26+Full-Stack+Developer;+Building+AI+Agents+and+Web+Applications;+Future+AI%2FML+Engineer+🚀;" />
 </h1>
 
 
