@@ -82,6 +82,9 @@
 
 
 <h2 align="center">🐍 My Contributions</h2>
-![snake gif](https://github.com/imluffy000/imluffy000/blob/output/github-contribution-grid-snake.gif)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/imluffy000/imluffy000/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 
