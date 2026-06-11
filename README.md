@@ -82,9 +82,6 @@
 
 
 <h2 align="center">🐍 My Contributions</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sreejib-Nandy/Sreejib-Nandy/output/snake.svg" />
-</p>
-
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 
